@@ -1,0 +1,6 @@
+{
+  "name": "TaskPulse",
+  "description": "Smart AI-powered task and habit tracker with daily checklist, streaks, calendar view, reminders, and productivity insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
